@@ -1,0 +1,19 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  margin: 30svh;
+  display: flex;
+  width: 300px;
+  flex-flow: column;
+  gap: 10px;
+  font-size: 20px;
+}
